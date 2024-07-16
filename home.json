@@ -12,19 +12,5 @@
       "name": "Name 3",
       "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_3.png"
     }
-  ],
-  "offers": [
-    {
-      "name": "Name 1",
-      "url": "https://changeoverfamilysalon.com/images/new-logo.png"
-    },
-    {
-      "name": "Name 2",
-      "url": "https://changeoverfamilysalon.com/images/new-logo.png"
-    },
-    {
-      "name": "Name 3",
-      "url": "https://changeoverfamilysalon.com/images/new-logo.png"
-    }
   ]
 }
