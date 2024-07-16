@@ -15,16 +15,24 @@
   ],
     "offers": [
     {
-      "name": "Name 1",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_1.png"
+      "name": "FLAT COMBO",
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/offer_1.jpg"
     },
     {
-      "name": "Name 2",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_2.png"
+      "name": "Skin & Hair",
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/offer_2.jpg"
     },
     {
-      "name": "Name 3",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_3.png"
+      "name": "men combo",
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/offer_3.jpg"
+    },
+      {
+      "name": "SPECIAL OFFERS",
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/offer_4.jpg"
+    },
+      {
+      "name": "Botox",
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/offer_5.jpg"
     }
   ]
 }
