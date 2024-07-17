@@ -42,15 +42,37 @@
     },
     {
       "name": "Skincare",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/sink_care.jpg"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/sink_care.png"
     },
     {
       "name": "Hand & Feet",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Hand_Feet.jpg"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Hand_Feet.png"
     },
     {
       "name": "Bridal",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Bridal.jpg"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Bridal.png"
     }
-  ]
+  ],
+  "why_change_over": {
+    "tittle": "Why Choose Changeover?",
+    "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/why_change_over.jpg",
+    "contents": [
+      {
+        "tittle": "Expert Stylists:",
+        "description": "Our team of skilled and experienced stylists are dedicated to bringing out the best in you. From trendy cuts to classic styles, we are here to cater to your unique preferences."
+      },
+      {
+        "name": "Luxurious Atmosphere:",
+        "description": "Step into an oasis of relaxation and sophistication. Our salon is designed to provide a serene escape from the hustle and bustle of everyday life. Experience pampering like never before."
+      },
+      {
+        "name": "Premium Products:",
+        "description": "We believe in using only the finest products to enhance your beauty. From renowned hair care brands to top-notch skincare products, your satisfaction and safety are our top priorities."
+      },
+      {
+        "name": "Tailored Services:",
+        "description": "No two individuals are the same, and neither are their beauty needs. Our personalized consultations ensure that you receive a service that is tailored to your unique style and requirements."
+      }
+    ]
+  }
 }
