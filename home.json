@@ -38,19 +38,19 @@
   "our_service": [
     {
       "name": "Haircut",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_1.png"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/hair_cut.png"
     },
     {
       "name": "Skincare",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_2.png"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/sink_care.png"
     },
     {
       "name": "Hand & Feet",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_3.png"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Hand_Feet.png"
     },
     {
       "name": "Bridal",
-      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/banner_3.png"
+      "url": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Bridal.png"
     }
   ],
 }
