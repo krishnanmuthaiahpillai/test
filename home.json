@@ -74,5 +74,26 @@
         "description": "No two individuals are the same, and neither are their beauty needs. Our personalized consultations ensure that you receive a service that is tailored to your unique style and requirements."
       }
     ]
+  },
+  "special_treatment": {
+    "tittle": "Special Treatments",
+    "description": "We believe that every client deserves a touch of luxury and personalization. Our special treatments are designed to provide you with a unique and extraordinary treatments going above and beyond traditional beauty services.",
+    "contents": [
+      {
+        "tittle": "Pigmentation Treatments",
+        "description": "Flawless Complexion, unveiled Restore Your Skin's",
+        "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/pigmentation_treatments.jpg"
+      },
+      {
+        "tittle": "Anti-Dandruff",
+        "description": "Dandruff-Free Confidence, Healthy Scalp",
+        "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/anti_dandruff.jpg"
+      },
+      {
+        "tittle": "Brightening Treatments",
+        "description": "Radiant Beauty, illuminated” Rediscover Your Natural Glow",
+        "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/brightening_treatments.jpg"
+      }
+    ]
   }
 }
