@@ -95,5 +95,28 @@
         "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/brightening_treatments.jpg"
       }
     ]
+  },
+  "customer_feedback": {
+    "tittle": "What our customers are saying…",
+    "contents": [
+      {
+        "user": "Kamali",
+        "comments": "I was really looking forward to going to Changeover Family Salon to get a haircut, and now I finally got to. The setting and the hospitality so captured my mother's attention that she also got her hair cut. The style and haircut are fantastic, done by Changeover Family Salon Employee. At Changeover Family Salon, we analyze your scalp and apply hair products based on that analysis, unlike other salons in the city. I appreciate the amazing service and attentive care you provided, Changeover Family Salon.",
+        "place": "Madipakkam,Chennai",
+        "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Kamali.jpg"
+      },
+      {
+        "user": "Sathya",
+        "comments": "My wedding makeup and hair were done by Team Changeover family salon. I was very happy I picked her. Her work was excellent. We are grateful for her timing and accuracy. She did it on schedule, and my family was quite pleased with the work she had done for me. I highly referred her to a number of my friends, and they were all quite pleased with her job. I hope she succeeds greatly and does many more great things in life. I'm grateful that Changeover Family Salon made me look good on my special day.",
+        "place": "Palavaram,Chennai",
+        "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Sathya.jpg"
+      },
+      {
+        "user": "Sowmiya",
+        "comments": "For a basic haircut, you visit them. You also have a truly transformational experience and an incredible makeover. For anybody who wants to have an amazing experience,  must visit the Changeover Family Salon. I would give the decor a five star rating because it is very tasteful. I hope you all have great success.",
+        "place": "Palavaram,Chennai",
+        "image": "https://raw.githubusercontent.com/krishnanmuthiahpillai/test/master/Sowmiya.jpg"
+      }
+    ]
   }
 }
