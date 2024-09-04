@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "department_Id": 41,
+      "department_Name": "ENDOCRINOLOGY"
+    },
+    {
+      "department_Id": 19,
+      "department_Name": "ORTHOPEDICS"
+    },
+    {
+      "department_Id": 435,
+      "department_Name": "DERMATOLOGY"
+    },
+    {
+      "department_Id": 22,
+      "department_Name": "CARDIOLOGY"
+    },
+    {
+      "department_Id": 21,
+      "department_Name": "DENTAL"
+    },
+    {
+      "department_Id": 27,
+      "department_Name": "GENERAL SURGERY"
+    },
+    {
+      "department_Id": 673,
+      "department_Name": "AUDIOMETRY"
+    },
+    {
+      "department_Id": 474,
+      "department_Name": "BARIATRIC SURGERY"
+    }
+  ],
+  "errorMessage": "",
+  "errorModel": null
+}
