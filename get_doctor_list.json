@@ -1,0 +1,44 @@
+[
+    {
+        "doctorId": 861,
+        "doctorName": "Dr. Abdelrahman Ahmed",
+        "department": "ENDOCRINOLOGY",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/01750.Jpeg"
+    },
+    {
+        "doctorId": 363,
+        "doctorName": "Dr. Abdulkareem Alghamdi",
+        "department": "DENTAL",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/01424.Jpeg"
+    },
+    {
+        "doctorId": 956,
+        "doctorName": "Dr. Abdulrahman Bin Jame",
+        "department": "DERMATOLOGY",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/01530.Jpeg"
+    },
+    {
+        "doctorId": 1433,
+        "doctorName": "Dr. Abdullah Alqahtani",
+        "department": "CARDIOLOGY",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/02185.Jpeg"
+    },
+    {
+        "doctorId": 1360,
+        "doctorName": "Dr. Abdullah Alshammari",
+        "department": "ORTHOPEDICS",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/"
+    },
+    {
+        "doctorId": 1154,
+        "doctorName": "Dr. Abdullah Alsobhi",
+        "department": "SURGERY",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/02109.Jpeg"
+    },
+    {
+        "doctorId": 1096,
+        "doctorName": "Dr. Abdulrahman Farooq",
+        "department": "ORTHOPEDICS",
+        "imageUrl": "https://patient.dmf.med.sa/assets/images/doctors/02105.Jpeg"
+    }
+]
